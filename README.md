@@ -9,6 +9,7 @@ This xml file contains colors
 
 ...Finally!!!:-)
 
-Usage: 
+#Usage: 
+
 Copy the many_colors.xml file inside your resources/values directory
 Feel free to fix missing or wrong colors.
